@@ -6,5 +6,5 @@ or think about transferring this game over to Unity.
 
 Fear not, all the code is still available to view!
 
-#Status of this project:
+# Status of this project:
 Currently in the process of being tested and deployed! Thanks for your patience :)
